@@ -135,7 +135,7 @@ hi bhai
   jab tak bhai (a < 10) {
    a += 1;
    agar bhai (a == 5) {
-    bol bhai "andar se bol bhai ", a;
+    bol bhai "antaraatma se bol bhai ", a;
     agla dekh bhai;
    }
    agar bhai (a == 6) {
